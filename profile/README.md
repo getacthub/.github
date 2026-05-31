@@ -15,7 +15,7 @@ The project is organized as a set of focused repositories, each with a single re
 | Repository | Description | Status |
 | --- | --- | --- |
 | [`acthub-core`](https://github.com/getacthub/acthub-core) | Python library — core business logic, data model, validation | 🔜 Planned |
-| [`acthub`](https://github.com/getacthub/acthub) | CLI — command-line interface built on top of `acthub-core` | � Planned |
+| [`acthub`](https://github.com/getacthub/acthub) | CLI — command-line interface built on top of `acthub-core` | 🔜 Planned |
 | [`acthub-vscode`](https://github.com/getacthub/acthub-vscode) | VS Code / Windsurf extension — sidebar, quick actions, status bar | 🔜 Planned |
 | [`acthub-web`](https://github.com/getacthub/acthub-web) | Web dashboard — visual interface built on top of `acthub-core` | 🔜 Planned |
 | [`acthub-mcp`](https://github.com/getacthub/acthub-mcp) | MCP server — AI agent integration via Model Context Protocol | 🔜 Planned |
