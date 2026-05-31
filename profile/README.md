@@ -2,7 +2,7 @@
 
 > A lightweight, durable GTD system built around plain Markdown files.
 
-**acthub** is an open-source productivity ecosystem designed for developers who want to manage tasks, projects, and notes without leaving their tools — and without vendor lock-in.
+**acthub** is an open-source productivity ecosystem for managing tasks, projects, and notes without vendor lock-in.
 
 Everything is stored as Markdown files with YAML frontmatter. No database. No proprietary format. Just files you own.
 
@@ -15,7 +15,7 @@ The project is organized as a set of focused repositories, each with a single re
 | Repository | Description | Status |
 | --- | --- | --- |
 | [`acthub-core`](https://github.com/getacthub/acthub-core) | Python library — core business logic, data model, validation | 🔜 Planned |
-| [`acthub`](https://github.com/getacthub/acthub) | CLI — command-line interface built on top of `acthub-core` | 🔜 Planned |
+| [`acthub`](https://github.com/getacthub/acthub) | CLI — command-line interface built on top of `acthub-core` | � Planned |
 | [`acthub-vscode`](https://github.com/getacthub/acthub-vscode) | VS Code / Windsurf extension — sidebar, quick actions, status bar | 🔜 Planned |
 | [`acthub-web`](https://github.com/getacthub/acthub-web) | Web dashboard — visual interface built on top of `acthub-core` | 🔜 Planned |
 | [`acthub-mcp`](https://github.com/getacthub/acthub-mcp) | MCP server — AI agent integration via Model Context Protocol | 🔜 Planned |
@@ -58,4 +58,4 @@ Feedback, issues, and contributions are welcome once the core is stable. In the 
 - **Plain files first** — your data is Markdown. It will outlive any tool.
 - **CLI-native** — everything works from the terminal. GUIs are optional layers.
 - **Composable** — use only what you need. No monolith.
-- **Developer-friendly** — built by a developer, for developers who think in GTD.
+- **Developer-friendly** — built with a CLI-first philosophy. GUIs are optional layers.
