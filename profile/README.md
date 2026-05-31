@@ -31,7 +31,7 @@ acthub-core   (Python library — business logic, entities, validation)
    acthub          acthub-web          acthub-mcp
   (CLI tool)     (web dashboard)      (MCP server)
       ↑                                    ↑
-acthub-vscode ───────────────────────────────
+acthub-vscode ──────────────────────────────
 (VS Code / Windsurf extension)
 ```
 
